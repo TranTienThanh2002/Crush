@@ -9,9 +9,9 @@ const CONFIG = {
     btnNo: 'NO🙁',
     question: 'Giờ bẫy là bạn gái của bạn rồi ặc, bẫy có điều gì nói với bạn không? hì hì'
     + ' Nhớ chụp hình lại rồi gửi bạn nha ❤️',
-    btnReply: 'Gửi cho bạn <3',
+    btnReply: 'Gửi cho bạn❤️',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Nhớ nhắn tin cho bạn là ĐỒNG Ý để bạn biết',
+    mess: '❤️Nhớ nhắn tin cho bạn là ĐỒNG Ý để bạn biết❤️',
     messDesc: 'Chủ nhật tuần sau, bạn qua đón bẫy đi chơi nha.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/messages/t/100004141005028'
